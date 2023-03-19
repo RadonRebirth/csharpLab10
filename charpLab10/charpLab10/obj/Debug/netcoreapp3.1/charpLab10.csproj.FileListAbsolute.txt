@@ -1,0 +1,14 @@
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\bin\Debug\netcoreapp3.1\charpLab10.exe
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\bin\Debug\netcoreapp3.1\charpLab10.deps.json
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\bin\Debug\netcoreapp3.1\charpLab10.runtimeconfig.json
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\bin\Debug\netcoreapp3.1\charpLab10.runtimeconfig.dev.json
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\bin\Debug\netcoreapp3.1\charpLab10.dll
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\bin\Debug\netcoreapp3.1\charpLab10.pdb
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\obj\Debug\netcoreapp3.1\charpLab10.csproj.AssemblyReference.cache
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\obj\Debug\netcoreapp3.1\charpLab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\obj\Debug\netcoreapp3.1\charpLab10.AssemblyInfoInputs.cache
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\obj\Debug\netcoreapp3.1\charpLab10.AssemblyInfo.cs
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\obj\Debug\netcoreapp3.1\charpLab10.csproj.CoreCompileInputs.cache
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\obj\Debug\netcoreapp3.1\charpLab10.dll
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\obj\Debug\netcoreapp3.1\charpLab10.pdb
+C:\Users\IVM505\source\repos\charpLab10\charpLab10\obj\Debug\netcoreapp3.1\charpLab10.genruntimeconfig.cache
